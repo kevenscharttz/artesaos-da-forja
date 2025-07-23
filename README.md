@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://beerandcode.com.br/_next/image?url=%2Flogo-beer-and-code.png&w=384&q=75" alt="Logo Beer and Code" width="200"/>
+    <img src="./assets/beer-and-code-logo.png">
 </div>
 
 ---
