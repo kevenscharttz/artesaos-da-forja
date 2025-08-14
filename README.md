@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/beer-and-code-logo.png">
+    <img src="./assets/beer-and-code-logo.png" alt="Beer and Code Logo">
 </div>
 
 ---
@@ -15,36 +15,41 @@
 
 </div>
 
-# 🛠️ Projeto Forja - Beer and Code
+# 🛠️ Beer and Code
 
-Este repositório será dedicado ao meu progresso no **Forja**, um treinamento intensivo da [Beer and Code](https://beerandcode.com.br/forja/) voltado para formação sólida de programadores PHP e Laravel.
+Este repositório reúne todo o meu aprendizado na plataforma [Beer and Code](https://beerandcode.com.br/), incluindo:
 
-> Aqui vou documentar cada etapa da minha jornada, incluindo anotações, projeto prático e reflexões sobre o aprendizado.
+- Projetos práticos
+- Anotações de aulas
+- Exercícios e desafios
+- Reflexões sobre o aprendizado
+
+> O objetivo é documentar minha evolução e centralizar materiais de estudo relacionados a PHP, Laravel, Filament e desenvolvimento web num geral.
 
 ---
 
 ## 📁 Estrutura do Repositório (planejada)
 
 - [`anotacoes/`](anotacoes) — Anotações e resumos de aulas e módulos.
-- [`projeto/`](projeto) — Projeto desenvolvido durante o treinamento.
+- [`projetos/`](projetos) — Projetos e exercícios práticos desenvolvidos.
 - [`assets/`](assets) — Imagens, logos ou materiais de apoio.
 
 ---
 
 ## 🚀 Como Usar
 
-Por enquanto, o repositório está em construção. Em breve, será possível:
+O repositório está em construção. Futuramente será possível:
 
-1. Acompanhar o progresso do treinamento.
-2. Clonar e testar o projeto desenvolvido em Laravel e PHP.
-3. Utilizar o material como fonte de estudos.
+1. Acompanhar o progresso do aprendizado.
+2. Clonar e testar projetos em PHP e Laravel.
+3. Consultar materiais de apoio para estudo.
 
 ---
 
 ## 📅 Status
 
-📌 **Início do treinamento:** Julho de 2025  
-🔧 **Em andamento** — Documentação e atividades sendo adicionadas conforme avanço nos módulos.
+📌 **Início dos estudos:** Julho de 2025  
+🔧 **Em andamento** — Conteúdos e projetos sendo adicionados conforme avanço na plataforma.
 
 ---
 
@@ -63,4 +68,3 @@ Por enquanto, o repositório está em construção. Em breve, será possível:
 ## ⚖️ Licença
 
 Este repositório está sob a [Licença MIT](LICENSE).
-
